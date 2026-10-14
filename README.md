@@ -1,4 +1,4 @@
 # Demo_1
 First demo repository
 <br>
-Editor:Soham
+Editor:Soham Rithe
